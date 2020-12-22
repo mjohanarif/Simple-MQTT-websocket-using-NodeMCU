@@ -24,6 +24,6 @@ This is a basic MQTT protocol example using web pages and esp8266 nodemcu.
  
 ### Webpages view
 #OFFLINE
-  ![](images/offline.jpg)
+  ![](images/offline.JPG)
 #ONLINE
-  ![](images/online.jpg)
+  ![](images/online.JPG)
